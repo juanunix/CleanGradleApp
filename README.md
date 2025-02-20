@@ -42,7 +42,7 @@ When you run the script, it will list all the `.gradle` directories found and de
 .gradle directories found and contents deleted:
 C:ruta\directorio\.gradle
 C:ruta\directorio\subcarpeta\.gradle
-Contents of .gradle directory deleted: C:ruta	u\directorio\.gradle
+Contents of .gradle directory deleted: C:ruta\directorio\.gradle
 Contents of .gradle directory deleted: C:ruta\directorio\subcarpeta\.gradle
 ```
 
@@ -63,3 +63,4 @@ We welcome contributions! Please follow these steps to contribute:
     git push origin feature-branch
     ```
 5. Open a pull request.
+
